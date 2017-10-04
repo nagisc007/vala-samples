@@ -16,3 +16,6 @@ base/std_input/std_input
 base/try_catch/try_catch
 # gio
 gio/main_loop/main_loop
+# gtk
+gtk/basic_sample/basic_sample
+gtk/sync_widget/sync_widget
