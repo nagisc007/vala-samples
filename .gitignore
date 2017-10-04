@@ -10,5 +10,6 @@ hello_world/hello_world
 math_sample/math_sample
 number_guess/number_guess
 process_block/process_block
+signal_callback/signal_callback
 std_input/std_input
 try_catch/try_catch
